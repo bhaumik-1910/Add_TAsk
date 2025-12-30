@@ -1,36 +1,96 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🗂 Add Task (Next.js)
 
-## Getting Started
+**Add Task** is a simple and clean task management frontend built with **Next.js**.  
+This project demonstrates the basics of building UI components, handling form input, and managing state in a Next.js application.
 
-First, run the development server:
+---
 
+## 🌟 Features
+
+- 📝 Add new tasks
+- 📋 Display task list
+- 🧠 Demonstrates basic state handling
+- 📱 Responsive UI
+- ⚛️ Built using Next.js
+
+---
+
+## 🛠 Tech Stack
+
+- **Next.js**
+- **React**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
+- **npm / yarn / pnpm**
+
+
+
+---
+
+## ⚙️ Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/bhaumik-1910/Add_TAsk.git
+cd Add_TAsk
+```
+
+### 2️⃣ Install dependencies
+
+Using **npm**:
+```bash
+npm install
+```
+
+Using **yarn**:
+```bash
+yarn install
+```
+
+Using **bun**:
+```bash
+bun install
+```
+
+### 3️⃣ Run the development server
+
+Using **npm**:
 ```bash
 npm run dev
-# or
+```
+
+Using **yarn**:
+```bash
 yarn dev
-# or
-pnpm dev
-# or
+```
+
+Using **bun**:
+```bash
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 4️⃣ Preview in browser
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📄 License
 
-To learn more about Next.js, take a look at the following resources:
+This project is licensed under the **MIT License**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 👤 Author
 
-## Deploy on Vercel
+**Bhaumik Patel**  
+GitHub: [@bhaumik-1910](https://github.com/bhaumik-1910)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub!
